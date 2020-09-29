@@ -35,7 +35,7 @@ The purpose of this project is to create a model which can predict whether a giv
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept in [datasets](kaggle-titanic/datasets) within this repo.
+2. Raw Data is being kept in [datasets](https://github.com/ronyefreitas/kaggle-titanic/tree/master/datasets) within this repo.
 3. Follow setup [instructions](Link to file)
 
 
