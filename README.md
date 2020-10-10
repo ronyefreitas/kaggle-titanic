@@ -20,9 +20,9 @@ The purpose of this project is to create a model which can predict whether a giv
 * Pandas
 * Numpy
 * XGBoost
-
-## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
+%
+%## Project Description
+%(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data %analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point %things here)
 
 ## Dataset
 ### Raw Data Dictionary (provided by [Kaggle](https://www.kaggle.com/))
