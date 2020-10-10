@@ -1,5 +1,5 @@
 # kaggle-titanic
-This project is a part of my personal Data Science portifolio and uses the Titanic dataset provided by [Kaggle](https://www.kaggle.com/).
+This project is a part of my personal Data Science portfolio and uses the Titanic dataset provided by [Kaggle](https://www.kaggle.com/).
 
 #### -- Project Status: [Active]
 
